@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portale_spolecznosciowe>
+    <twitch>
+        <srednia_liczba_nadajacych_w_miesiącu>
+            7.39 M
+        </srednia_liczba_nadajacych_w_miesiącu>
+
+        <srednia_liczba_oglodajacych_w_7_dniach>
+            2,380,144
+        <srednia_liczba_oglodajacych_w_7_dniach>
+
+        <liczba_godzin_oglodania_w_pazdzierniku>
+            1,696,556,001
+        </liczba_godzin_oglodania_w_pazdzierniku>
+
+        <najczestsza_kategoria>
+            Just Chatting
+        </najczestsza_kategoria>
+        
+    </twitch>
+
+    <youtube>
+        <top_channel>
+            MrBeast
+        </top_channel>
+        <liczba_użytkowników>
+            2.7 miliarda
+        </liczba_użytkowników>
+    </youtube>
+
+    <facebook>
+        <top_account>
+            Facebook
+        </top_account>
+        <aktywni_miesięczni_użytkownicy>
+    </facebook>
+
+    <reddit>
+        <urzytkownicy>
+
+        </urzytkownicy>
+        <zarobki>
+    </reddit>
+
+</portale_spolecznosciowe>
+
