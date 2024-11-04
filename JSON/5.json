@@ -1,0 +1,44 @@
+[
+    {
+        "name" : "Twitter",
+        "founded" : 2006,
+        "users_in_millions" : 586.5,
+        "value_in_billions" : 41.09,
+        "is_in_top_3_biggest_social_medias" : false
+    },
+    {
+        "name" : "Facebook",
+        "founded" : 2004,
+        "users_in_millions" : 3007.5,
+        "value_in_billions" : 1430,
+        "is_in_top_3_biggest_social_medias" : true
+    },
+    {
+        "name" : "Youtube",
+        "founded" : 2005,
+        "users_in_millions" : 2490,
+        "value_in_billions" : 455.5,
+        "is_in_top_3_biggest_social_medias" : true
+    },
+    {
+        "name" : "TikTok",
+        "founded" : 2016,
+        "users_in_millions" : 1000,
+        "value_in_billions" : 84.3,
+        "is_in_top_3_biggest_social_medias" : false
+    },
+    {
+        "name" : "Instagram",
+        "founded" : 2010,
+        "users_in_millions": 2000,
+        "value_in_billions": 100.2,
+        "is_in_top_3_biggest_social_medias" : true
+    },
+    {
+        "name" : "Snapchat",
+        "founded" : 2011,
+        "users_in_millions" : 800.3,
+        "value_in_billions" : 20.4,
+        "is_in_top_3_biggest_social_medias" : false
+    }
+]

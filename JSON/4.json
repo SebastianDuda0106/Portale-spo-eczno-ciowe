@@ -1,0 +1,10 @@
+{
+    "name" : "Twitter",
+    "users_in_millions" : 586.5,
+    "tweets_per_day_in_millions" : 500,
+    "value_in_billions" : 41.09,
+    "is_the_biggest_social_media" : false,
+    "founders_of_twitter" : ["Jack Dorsey","Noah Glass","Christopher Stone","Evan Williams"],
+    "founded_in" : 2006,
+    "biggest_account_on_twitter" : "Elon Musk"
+}
